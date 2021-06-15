@@ -15,5 +15,8 @@ Generic C fixed size stack implementation
 - isFull()
 - GetLength()
 
+## Example
+An example is available in main.c
+
 ## Sources
 https://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29
